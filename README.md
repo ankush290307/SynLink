@@ -1,4 +1,4 @@
-# <img src="./SynLink.png" alt="SynLink" width="40" style="vertical-align: middle;"> SynLink
+# <img src="./SynLink.png" alt="SynLink" width="90" style="vertical-align: middle;"> SynLink
 
 
 
