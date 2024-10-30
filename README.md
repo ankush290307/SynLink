@@ -1,4 +1,4 @@
-# ![SynLink]# <img src="./SynLink.png" alt="SynLink" width="40" style="vertical-align: middle;"> SynLink
+#<img src="./SynLink.png" alt="SynLink" width="40" style="vertical-align: middle;"> SynLink
 
 
 **SynLink** is an advanced bioinformatics tool for **syntenic block construction**, **ortholog mapping**, and **ancestral linkage group (ALG) estimation**. Leveraging a highly optimized algorithm to outperform DAGChainer, SynLink offers rapid synteny analysis across large genomic datasets, constructing networks that reveal conserved chromosomal arrangements. 
